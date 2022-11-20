@@ -18,7 +18,7 @@ namespace Veregant.SplitAndMerge1
         static void Main(string[] args)
         {
 
-            string stri = "(2+3)^(1+2 )-(100+(11-(10))) +cos(90+ 90)";
+            string stri = "(2+3)^(1+2 )-(100+(11-(10))) +cos(180)";
             LoadString(stri, ref Cells);
             CalculateString(ref Cells);
             Console.WriteLine(CellsToString(Cells));
@@ -43,6 +43,7 @@ namespace Veregant.SplitAndMerge1
                     if (from < data.Length - 1)
                     {
                         from++;
+                        if (data[from].ToString() == " ") from++;
                     }
 
                     // Getting the whole number
@@ -53,6 +54,8 @@ namespace Veregant.SplitAndMerge1
                         cell.Value = Current;
                         if (from < data.Length)
                         {
+
+                            if (data[from].ToString() == " ") from++;
                             from++;
                         }
 
@@ -83,9 +86,9 @@ namespace Veregant.SplitAndMerge1
                             cell.Action = "sin";
                             from += 2;
                             break;
-                        default:
-                            Exception NotValidStringException = new Exception("Inputed string is not valid.");
-                            throw NotValidStringException;
+                        case ' ':
+
+                            break;
 
                     }
                 }
