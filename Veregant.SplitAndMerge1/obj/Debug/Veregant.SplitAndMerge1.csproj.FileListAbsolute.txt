@@ -1,0 +1,8 @@
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\bin\Debug\Veregant.SplitAndMerge1.exe.config
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\bin\Debug\Veregant.SplitAndMerge1.exe
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\bin\Debug\Veregant.SplitAndMerge1.pdb
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\obj\Debug\Veregant.SplitAndMerge1.csproj.AssemblyReference.cache
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\obj\Debug\Veregant.SplitAndMerge1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\obj\Debug\Veregant.SplitAndMerge1.csproj.CoreCompileInputs.cache
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\obj\Debug\Veregant.SplitAndMerge1.exe
+C:\Users\vereg\source\repos\Veregant.SplitAndMerge1\Veregant.SplitAndMerge1\obj\Debug\Veregant.SplitAndMerge1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veregant.SplitAndMerge1", "Veregant.SplitAndMerge1\Veregant.SplitAndMerge1.csproj", "{A2C4AFB0-D89B-4F62-85AE-1800A562EBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C4AFB0-D89B-4F62-85AE-1800A562EBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C4AFB0-D89B-4F62-85AE-1800A562EBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C4AFB0-D89B-4F62-85AE-1800A562EBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C4AFB0-D89B-4F62-85AE-1800A562EBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6685E359-E7C7-4789-8250-C5E53FF8F667}
+	EndGlobalSection
+EndGlobal
